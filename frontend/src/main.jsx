@@ -15,7 +15,7 @@ import MemoryCardGame from "./MemoryCardGame/MemoryCardGame";
 import Congratulations from "./MemoryCardGame/Congratulation";
 import CongtEasy from "./MemoryCardGame/Congratseasy";
 import CongtNormal from "./MemoryCardGame/Congratsnormal";
-import GameResults from "./Login/GameResults";
+import GameResults from "./MemoryCardGame/GameResults";
 
 const App = () => {
   const [isAuthenticated, setIsAuthenticated] = useState(
